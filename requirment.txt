@@ -1,8 +1,5 @@
-google-generativeai
-streamlit
 streamlit
 google-generativeai
 python-docx
-pypdf
 PyMuPDF
 docx2txt
